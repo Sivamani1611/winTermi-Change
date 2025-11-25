@@ -43,12 +43,12 @@ A Windows-only, single-file Python script to instantly apply a Pokémon wallpape
 
 1. **Clone or download** this repo:
    ```bash
-   git clone https://github.com/sivamani1611/terminal-change.git
+   git clone https://github.com/sivamani1611/winTermi-Change.git
    cd terminal-change
    ```
 2. **Copy** the original Pokémon data and images from [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal):
    ```
-   terminal-change/
+   winTermi-Change/
    ├── terminalChange.py
    ├── Data/
    │   └── pokemon.txt
@@ -111,7 +111,7 @@ python terminalChange.py clear
 ## 📂 Project Structure
 
 ```
-terminal-change/
+winTermi-Change/
 ├── terminalChange.py       # Single-file entry point
 ├── Data/
 │   └── pokemon.txt         # Pokémon metadata (name, type, threshold)
